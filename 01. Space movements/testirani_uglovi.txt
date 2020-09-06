@@ -1,0 +1,3 @@
+-arctg(1/7)
+-arcsin(1/3)
+arctg(2)

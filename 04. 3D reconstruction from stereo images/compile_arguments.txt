@@ -1,0 +1,4 @@
+g++ xxxxx.cpp -lm -lglut -lGL -lGLU -Wall -Wextra
+
+
+Headers: Eigen, FreeGLUT

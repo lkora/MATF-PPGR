@@ -1,0 +1,1 @@
+g++ rotateCube.cpp -lm -lglut -lGL -lGLU -o rotateCube
